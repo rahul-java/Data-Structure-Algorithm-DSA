@@ -2,7 +2,7 @@ package Sorting.QuickSort.LomutoPartion;
 
 import java.util.Arrays;
 
-public class QuickSort {
+public class QuickSortLastElementAsPivot {
 	
 	public static int c=0;
 
