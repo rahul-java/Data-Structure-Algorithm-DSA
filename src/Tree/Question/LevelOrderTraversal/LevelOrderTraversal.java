@@ -3,6 +3,7 @@ package Tree.Question.LevelOrderTraversal;
 public class LevelOrderTraversal {
 
 	//write a program to print the LevelOrderTraversal of the tree
+	//LevelOrderTraversal OR HorizontalOrderTraversal
 	
 		static Node root=null;
 			

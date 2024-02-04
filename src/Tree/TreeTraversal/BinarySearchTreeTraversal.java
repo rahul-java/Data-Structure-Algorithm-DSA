@@ -1,6 +1,6 @@
 package Tree.TreeTraversal;
 
-public class BinarySearchTree {
+public class BinarySearchTreeTraversal {
 	
 Node root=null;
 	
@@ -66,7 +66,7 @@ Node root=null;
 
 	public static void main(String[] args) {
 		
-		BinarySearchTree binarySearchTree = new BinarySearchTree();
+		BinarySearchTreeTraversal binarySearchTree = new BinarySearchTreeTraversal();
 		
 		binarySearchTree.add(120);
 		binarySearchTree.add(100);
